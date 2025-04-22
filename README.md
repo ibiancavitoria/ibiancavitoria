@@ -1,4 +1,4 @@
-# Hello 👋 I am Bianca Vitoria
+# Hello  I am Bianca Vitoria
 
 🎓 Estudante de ADS | 💻 Desenvolvedora Front-end
 
