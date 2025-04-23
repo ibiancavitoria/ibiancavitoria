@@ -22,9 +22,8 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/react-colored.svg" alt="React" />
 </picture></a> &nbsp;
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/sass-colored.svg" alt="Sass" />
-</picture></a> &nbsp;
+
+
 
 ### Social
 
